@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <h1>WebStudio</h1>
+    <p>студія</p>
+    <p>портфоліо</p>
+    <p>контакти</p>
+    <a href="info@devstudio.com
+    info@devstudio.com">info@devstudio.com
+        info@devstudio.com</a>
+    <a href="+38 096 111 11 11">+38 096 111 11 11</a>
+    <style>
+        body {
+            background-color: #ECECEC;
+        }
+    </style>
+</head>
+
+<body>
+    <button>Усі</button>
+    <button>Веб-сайти</button>
+    <button>Додатки</button>
+    <button>Дизайн</button>
+    <button>Маркетинг</button>
+    <img src="images/project 1.png" alt="ноут бук ">
+    <img src="images/project 2.png" alt="спорцмени ">
+    <img src="images/project 3.png" alt="логотип">
+    <img src="images/project 4.png" alt="навушники">
+    <img src="images/project 5.png" alt="коропки">
+    <img src="images/project 6.png" alt="манітор">
+    <img src="images/project 7.png" alt="журнал">
+    <img src="images/project 8.png" alt="бірка">
+    <img src="images/project 9.png" alt="ноутбук">
+</body>
+<footer>
+    <h1>WebStudio</h1>
+    <p>м. Київ, пр-т Лесі Українки, 26</p>
+    <a href="info@devstudio.com">info@devstudio.com</a>
+    <a href="+38 096 111 11 11">+38 096 111 11 11</a>
+</footer>
+
+</html>
